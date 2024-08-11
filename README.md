@@ -1,4 +1,4 @@
-# password_generator
+# Password-Generator
 This Python based password generator and tester is a script that automatically creates strong, random passwords and optionally evaluates their strength against predefined criteria.
 ____________________
 Core Functionalities:
